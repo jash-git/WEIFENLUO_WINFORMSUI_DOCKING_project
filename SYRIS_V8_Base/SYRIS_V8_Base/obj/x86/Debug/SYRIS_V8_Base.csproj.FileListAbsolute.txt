@@ -1,0 +1,27 @@
+C:\Users\RD\AppData\Local\Temporary Projects\SYRIS_V8_Base\bin\Debug\SYRIS_V8_Base.exe
+C:\Users\RD\AppData\Local\Temporary Projects\SYRIS_V8_Base\bin\Debug\SYRIS_V8_Base.pdb
+C:\Users\RD\AppData\Local\Temporary Projects\SYRIS_V8_Base\obj\x86\Debug\SYRIS_V8_Base.MainWnd.resources
+C:\Users\RD\AppData\Local\Temporary Projects\SYRIS_V8_Base\obj\x86\Debug\SYRIS_V8_Base.Properties.Resources.resources
+C:\Users\RD\AppData\Local\Temporary Projects\SYRIS_V8_Base\obj\x86\Debug\SYRIS_V8_Base.csproj.GenerateResource.Cache
+C:\Users\RD\AppData\Local\Temporary Projects\SYRIS_V8_Base\obj\x86\Debug\SYRIS_V8_Base.exe
+C:\Users\RD\AppData\Local\Temporary Projects\SYRIS_V8_Base\obj\x86\Debug\SYRIS_V8_Base.pdb
+D:\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\obj\x86\Debug\SYRIS_V8_Base.exe
+D:\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\obj\x86\Debug\SYRIS_V8_Base.pdb
+D:\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\bin\Debug\SYRIS_V8_Base.exe
+D:\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\bin\Debug\SYRIS_V8_Base.pdb
+D:\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\obj\x86\Debug\SYRIS_V8_Base.csprojResolveAssemblyReference.cache
+D:\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\obj\x86\Debug\SYRIS_V8_Base.MainWnd.resources
+D:\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\obj\x86\Debug\SYRIS_V8_Base.Properties.Resources.resources
+D:\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\obj\x86\Debug\SYRIS_V8_Base.csproj.GenerateResource.Cache
+D:\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\obj\x86\Debug\SYRIS_V8_Base.MenuWnd.resources
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\obj\x86\Debug\SYRIS_V8_Base.exe
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\obj\x86\Debug\SYRIS_V8_Base.pdb
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\bin\Debug\SYRIS_V8_Base.exe
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\bin\Debug\SYRIS_V8_Base.pdb
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\obj\x86\Debug\SYRIS_V8_Base.csprojResolveAssemblyReference.cache
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\obj\x86\Debug\SYRIS_V8_Base.MainWnd.resources
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\obj\x86\Debug\SYRIS_V8_Base.MenuWnd.resources
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\obj\x86\Debug\SYRIS_V8_Base.Properties.Resources.resources
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\obj\x86\Debug\SYRIS_V8_Base.csproj.GenerateResource.Cache

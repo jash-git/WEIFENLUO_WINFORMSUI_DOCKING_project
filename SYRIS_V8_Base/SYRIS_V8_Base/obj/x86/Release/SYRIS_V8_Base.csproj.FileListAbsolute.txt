@@ -1,0 +1,10 @@
+D:\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\bin\Release\SYRIS_V8_Base.exe
+D:\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\bin\Release\SYRIS_V8_Base.pdb
+D:\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+D:\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\obj\x86\Release\SYRIS_V8_Base.MainWnd.resources
+D:\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\obj\x86\Release\SYRIS_V8_Base.Properties.Resources.resources
+D:\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\obj\x86\Release\SYRIS_V8_Base.csproj.GenerateResource.Cache
+D:\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\obj\x86\Release\SYRIS_V8_Base.exe
+D:\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\obj\x86\Release\SYRIS_V8_Base.pdb
+D:\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\obj\x86\Release\SYRIS_V8_Base.csprojResolveAssemblyReference.cache
+D:\Visual project code\SYRIS_V8_Base\SYRIS_V8_Base\obj\x86\Release\SYRIS_V8_Base.MenuWnd.resources
